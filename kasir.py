@@ -38,8 +38,8 @@ while True:
     else:
         print('kode tidak valid')
 
-    lanjut = input('lanjut belanja (y/t) :')
-    if lanjut == 't' :
+    lanjut = input('lanjut belanja (y/n) :')
+    if lanjut == 'n' :
         print("")
         break
 
