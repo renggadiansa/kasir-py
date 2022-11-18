@@ -1,5 +1,3 @@
-from operator import truediv
-
 total = 0
 barang = []
 harga = []
